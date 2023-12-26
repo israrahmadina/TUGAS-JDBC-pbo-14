@@ -1,0 +1,3 @@
+interface TotalBayar {
+    double hitungTotalBayar();
+}
